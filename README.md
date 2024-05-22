@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm a cinephile.
 -->
-- 🔭 I’m currently working on ChatApp
+I'm a **Python Developer** from **Gujarat, India**.
+- 🔭 I’m currently working on **ChatApp**
+- ⚙️ Mostly using ```.py```, ```.js```
 - 🌱 I’m currently learning FastAPI
-- 💬 Ask me about Python
-- 📫 How to reach me: harshvadhiya144@gmail.com
-- ⚡ Fun fact: I'm a cinephile.
+- 💬 Ping me about **Python, Development**, 
+- 📫 Reach me: harshvadhiya144@gmail.com
+- ⚡ Fun fact: I'm a cinephile
