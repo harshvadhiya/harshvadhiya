@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **I am a Cinephile**
 
+
 ![](https://komarev.com/ghpvc/?username=harshvadhiya&color=blue)
 
 <h3 align="left"><samp>Connect with me:</samp></h3>
