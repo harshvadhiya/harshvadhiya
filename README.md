@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **harshvadhiya144@gmail.com**
+- 📫 How to reach me **dev.harshvadhiya@gmail.com**
 
 - ⚡ Fun fact **I am a Cinephile**
 
