@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Vadhiya</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/harshvadhiya/ChatApp)
+- 🔭 Implementing ERPNext for Indian SMEs
 
-- 🌱 I’m currently learning **React JS, Fast API**
+- 🌱 I’m currently learning **AI, Marketing**
 
 - 💬 Ask me about **Python**
 
