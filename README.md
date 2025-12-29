@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Vadhiya</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 Implementing ERPNext for Indian SMEs
+- 🔭 Implementing ERPNext for SMEs
 
 - 🌱 I’m currently learning **AI, Marketing**
 
