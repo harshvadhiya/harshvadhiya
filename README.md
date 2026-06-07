@@ -190,7 +190,7 @@ class HarshVadhiya:
   For a 100% reliable version, generate it as a static SVG via a GitHub Action.
 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=6&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=6&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
 ---
