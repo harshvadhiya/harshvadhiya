@@ -1,0 +1,36 @@
+name: Waka Readme Dev Metrics
+
+# Runs daily at 00:30 UTC, and can be triggered manually.
+# Injects WakaTime-based dev metrics into the README between the
+# <!--START_SECTION:waka--> and <!--END_SECTION:waka--> markers.
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with dev metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          # --- Required secrets (add in repo Settings > Secrets and variables > Actions) ---
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}   # from https://wakatime.com/settings/account
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}                   # a Personal Access Token with 'repo' scope
+
+          # --- What to display (toggle any to "False" to hide) ---
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"      # already shown via the komarev badge in the README
+          SHOW_COMMIT: "True"              # commits by time of day (Morning/Daytime/Evening/Night)
+          SHOW_DAYS_OF_WEEK: "True"        # which weekdays you commit most
+          SHOW_LANGUAGE: "True"            # languages by coding time
+          SHOW_EDITORS: "True"             # editors used
+          SHOW_OS: "True"                  # operating systems
+          SHOW_PROJECTS: "True"            # time per project
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          LOCALE: "en"
