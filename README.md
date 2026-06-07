@@ -136,8 +136,8 @@ class HarshVadhiya:
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=harshvadhiya&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="github stats" />
-  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harshvadhiya&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&text_color=c9d1d9" alt="top languages donut chart" />
+  <img width="48%" src="https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/output/github-stats.svg" alt="github stats" />
+  <img width="40%" src="https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/output/github-top-langs.svg" alt="top languages donut chart" />
 </p>
 
 <p align="center">
