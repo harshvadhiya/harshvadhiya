@@ -23,7 +23,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Generate snake SVGs
         uses: Platane/snk@v3
@@ -36,6 +36,7 @@ jobs:
 
       - name: Generate github-readme-stats SVGs
         run: |
+          sudo chown -R $USER:$USER dist
           mkdir -p dist
           git clone https://github.com/anuraghazra/github-readme-stats.git grs
           cd grs
@@ -45,9 +46,9 @@ jobs:
           # Wait 10 seconds for server to start
           sleep 10
           # Fetch stats card
-          curl -s "http://localhost:9000/api?username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" -o ../dist/github-stats.svg
+          curl -f -s "http://localhost:9000/api?username=${{ github.repository_owner }}&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" -o ../dist/github-stats.svg
           # Fetch top languages card
-          curl -s "http://localhost:9000/api/top-langs/?username=${{ github.repository_owner }}&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&text_color=c9d1d9" -o ../dist/github-top-langs.svg
+          curl -f -s "http://localhost:9000/api/top-langs/?username=${{ github.repository_owner }}&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&text_color=c9d1d9" -o ../dist/github-top-langs.svg
           # Kill background server
           kill $!
 
