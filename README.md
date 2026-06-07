@@ -72,6 +72,28 @@ class HarshVadhiya:
 | **Vehicle Tracking (AI/ML)** | Real-time tracking with **YOLOv8 + DeepSORT**, Streamlit GUI | Precise monitoring in dynamic environments |
 | **Document Intelligence (AI/ML)** | PDF Q&A chatbot (NLP) + **LayoutLM** invoice key-value extraction | Automated document understanding |
 
+<!--
+  ============================ 📌 FEATURED REPOSITORIES ============================
+  These are live "pinned repo" cards from github-readme-stats. They render real
+  data (stars, forks, language) for any PUBLIC repo on your account.
+
+  TO ENABLE: uncomment the block below and replace each repo=YOUR_REPO_NAME with
+  the actual repo names from https://github.com/harshvadhiya?tab=repositories
+  Then move it out of this comment. Delete any rows you don't need.
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/harshvadhiya/YOUR_REPO_NAME">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshvadhiya&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="repo 1" />
+  </a>
+  <a href="https://github.com/harshvadhiya/YOUR_REPO_NAME_2">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=harshvadhiya&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="repo 2" />
+  </a>
+</p>
+  ================================================================================
+-->
+
 ---
 
 ## 🛠️ Tech Stack
@@ -99,8 +121,8 @@ class HarshVadhiya:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshvadhiya&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="github stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvadhiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&text_color=c9d1d9" alt="top languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshvadhiya&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="github stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvadhiya&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&text_color=c9d1d9" alt="top languages donut chart" />
 </p>
 
 <p align="center">
@@ -136,6 +158,7 @@ class HarshVadhiya:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
+
 
 ---
 
