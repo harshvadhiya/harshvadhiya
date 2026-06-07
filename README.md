@@ -1,33 +1,165 @@
-<h1 align="center">Hi 👋, I'm Harsh Vadhiya</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<!-- ====================== HEADER BANNER ====================== -->
+<a href="https://harshh.in">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:2a5298,100:00BFA6&height=210&section=header&text=Harsh%20Vadhiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frappe%20%2F%20ERPNext%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Enterprise%20Solutions&descAlignY=58&descSize=20" alt="header"/>
+</a>
 
-- 🔭 Implementing ERPNext for SMEs
-
-- 🌱 I’m currently learning **AI, Marketing**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **dev.harshvadhiya@gmail.com**
-
-- ⚡ Fun fact **I am a Cinephile**
-
-
-![](https://komarev.com/ghpvc/?username=harshvadhiya&color=blue)
-
-<h3 align="left"><samp>Connect with me:</samp></h3>
-<p align="left">
-<a href="https://twitter.com/harshvadhiya" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="harshvadhiya"/></a>
-<a href="https://linkedin.com/in/harshvadhiya" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="harshvadhiya"/></a>
-<a href="https://instagram.com/harshvadhiya" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="harshvadhiya"/></a>
-<a href="https://www.youtube.com/@withharshvadhiya" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="withharshvadhiya"/></a>
+<!-- ====================== TYPING SUBTITLE ====================== -->
+<p align="center">
+  <a href="https://harshh.in">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=900&color=00BFA6&center=true&vCenter=true&width=620&lines=Frappe+%2F+ERPNext+Developer;Building+enterprise+solutions+for+SMEs;Python+%E2%80%A2+Workflow+Automation+%E2%80%A2+AI+Integrations;Turning+complex+business+processes+into+clean+systems" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left"><samp>Languages and Tools:</samp></h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/> </a>  </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
+<!-- ====================== SOCIAL / STATUS BADGES ====================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshvadhiya&label=Profile%20views&color=00BFA6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/harshvadhiya?tab=followers">
+    <img src="https://img.shields.io/github/followers/harshvadhiya?label=Followers&style=for-the-badge&color=2a5298&logo=github&logoColor=white" alt="followers" />
+  </a>
+  <a href="https://harshh.in">
+    <img src="https://img.shields.io/badge/Portfolio-harshh.in-1a2980?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/harshvadhiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://twitter.com/harshvadhiya" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x"/></a>
+  <a href="https://www.youtube.com/@withharshvadhiya" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/></a>
+  <a href="https://instagram.com/harshvadhiya" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="mailto:dev.harshvadhiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+</p>
+
+---
+
+## 👋 About Me
+
+```python
+class HarshVadhiya:
+    def __init__(self):
+        self.role        = "Sr. ERPNext Developer"
+        self.location    = "Ahmedabad, Gujarat, India 🇮🇳"
+        self.specialty   = ["Frappe Framework", "ERPNext", "Enterprise Automation"]
+        self.currently   = "Implementing ERPNext for SMEs"
+        self.learning    = ["AI", "Marketing"]
+        self.ask_me_about = "Python"
+        self.fun_fact    = "I'm a Cinephile 🎬"
+
+    def what_i_do(self):
+        return "Build ERP solutions that streamline operations & cut costs 💸"
+```
+
+- 🔭 &nbsp;Building **enterprise ERP solutions on Frappe / ERPNext** that streamline operations and cut costs
+- 👨‍💻 &nbsp;Leading teams and owning client delivery **end-to-end** — from requirement analysis to UAT & training
+- ⚡ &nbsp;Replaced a paid HRMS with a **custom Frappe HR** build — saving **lakhs annually**
+- 🌱 &nbsp;Currently exploring **AI integrations** and **Marketing**
+- 💬 &nbsp;Ask me about **Python, Frappe Framework, and e-commerce integrations**
+- 📫 &nbsp;Reach me at **dev.harshvadhiya@gmail.com** &nbsp;|&nbsp; 🌐 **[harshh.in](https://harshh.in)**
+
+---
+
+## 🚀 What I've Shipped
+
+> Highlights from real enterprise projects — measurable impact, production systems.
+
+| 🧩 Project / Initiative | ⚙️ What I Built | 📈 Impact |
+|---|---|---|
+| **Multi-Marketplace E-commerce** | SKU harmonization mapping **hundreds** of marketplace SKUs (Shopify, Amazon, Flipkart) into a single Frappe item master via custom overrides | Eliminated SKU conflicts across platforms |
+| **Real-Time Sync Engine** | API connectors, webhooks & scheduled sync jobs (**Shopify REST, Amazon SP-API**) for inventory & pricing | Reduced order discrepancies & stock-outs |
+| **Custom HRMS** | Built an internal HRMS from scratch with **LinkedIn + Indeed** integrations, replacing a paid tool | 💰 Saved **lakhs / year** |
+| **AI Applicant Tracking System** | Resume Screener, Resume Importer, **AI Resume-Rating Agent** + Chrome Extension on Frappe | ⏱️ 30% faster reviews, **15+ hrs/week** saved |
+| **Cloud Frappe Deployments** | Deployed & managed hosted Frappe apps on cloud, enabling seamless scaling | 🚀 **40%** faster deployments |
+| **Pixel-Perfect Print Formats** | Replicated client-specific documents using Frappe's print builder | 🎯 **100%** layout accuracy |
+| **Vehicle Tracking (AI/ML)** | Real-time tracking with **YOLOv8 + DeepSORT**, Streamlit GUI | Precise monitoring in dynamic environments |
+| **Document Intelligence (AI/ML)** | PDF Q&A chatbot (NLP) + **LayoutLM** invoice key-value extraction | Automated document understanding |
+
+---
+
+## 🛠️ Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Frappe Ecosystem
+![Frappe](https://img.shields.io/badge/Frappe%20Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-2490EF?style=for-the-badge&logo=erpnext&logoColor=white)
+![Frappe HR](https://img.shields.io/badge/Frappe%20HR-318CE7?style=for-the-badge&logo=frappe&logoColor=white)
+
+#### Backend & Frameworks
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MariaDB%2FMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+#### Integrations
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon%20SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshvadhiya&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="github stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvadhiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&text_color=c9d1d9" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshvadhiya&theme=tokyonight&hide_border=true&background=00000000&ring=00BFA6&fire=00BFA6&currStreakLabel=00BFA6" alt="github streak" />
+</p>
+
+<!-- ====================== CONTRIBUTION SNAKE (requires the GitHub Action below) ====================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/output/github-snake.svg" />
+  </picture>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvadhiya&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00BFA6&line=2a5298&point=ffffff&area=true&area_color=2a5298" alt="activity graph" width="98%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</p>
+
+---
+
+<!-- ====================== DEV QUOTE ====================== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
+<!-- ====================== FOOTER ====================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,50:2a5298,100:1a2980&height=120&section=footer" alt="footer"/>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/harshvadhiya">harshvadhiya</a> — let's build something that ships.</i></p>
