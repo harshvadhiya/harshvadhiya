@@ -103,9 +103,18 @@ class HarshVadhiya:
 ![ERPNext](https://img.shields.io/badge/ERPNext-2490EF?style=for-the-badge&logo=erpnext&logoColor=white)
 ![Frappe HR](https://img.shields.io/badge/Frappe%20HR-318CE7?style=for-the-badge&logo=frappe&logoColor=white)
 
-#### 🧰 Core Stack
+#### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,react,bootstrap,mysql,mongodb,opencv,docker,git,github,linux,postman,vscode&perline=9&theme=dark" alt="core tech stack icons" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="52" alt="Python" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="52" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="52" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="52" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="52" alt="MySQL" />
+</p>
+
+#### 🧰 Frameworks, Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,bootstrap,mongodb,opencv,docker,git,github,linux,postman,vscode&perline=12&theme=dark" alt="frameworks, databases and tools icons" />
 </p>
 
 #### 🔌 Integrations & AI
@@ -119,6 +128,12 @@ class HarshVadhiya:
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/harshvadhiya">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Full%20Interactive%20Profile%20Summary-View%20Charts%20%26%20Insights-2a5298?style=for-the-badge" alt="profile summary for github" />
+  </a>
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshvadhiya&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFA6&icon_color=2a5298&text_color=c9d1d9" alt="github stats" />
@@ -146,6 +161,19 @@ class HarshVadhiya:
 
 ---
 
+## ⏳ Weekly Development Breakdown
+
+<!--
+  This block is auto-filled by the waka-readme-stats GitHub Action (anmol098/waka-readme-stats).
+  It populates between the two markers below after the workflow (waka.yml) runs.
+  REQUIRES: a WakaTime account + the WAKATIME_API_KEY and GH_TOKEN repo secrets (see waka.yml).
+  Until the first run, the area between the markers stays empty — that's expected.
+-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🏆 GitHub Trophies
 
 <!--
@@ -165,8 +193,8 @@ class HarshVadhiya:
   <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=6&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
-
 ---
+
 
 <!-- ====================== DEV QUOTE ====================== -->
 <p align="center">
