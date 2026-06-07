@@ -76,45 +76,23 @@ class HarshVadhiya:
 
 ## 🛠️ Tech Stack
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Frappe Ecosystem
+#### 💎 Specialization — Frappe Ecosystem
 ![Frappe](https://img.shields.io/badge/Frappe%20Framework-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-2490EF?style=for-the-badge&logo=erpnext&logoColor=white)
 ![Frappe HR](https://img.shields.io/badge/Frappe%20HR-318CE7?style=for-the-badge&logo=frappe&logoColor=white)
 
-#### Backend & Frameworks
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### 🧰 Core Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,fastapi,react,bootstrap,mysql,mongodb,opencv,docker,git,github,linux,postman,vscode&perline=9&theme=dark" alt="core tech stack icons" />
+</p>
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MariaDB%2FMySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### AI / ML
+#### 🔌 Integrations & AI
 ![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-#### Integrations
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon%20SP--API-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -148,8 +126,15 @@ class HarshVadhiya:
 
 ## 🏆 GitHub Trophies
 
+<!--
+  NOTE: This widget runs on a shared free Vercel instance that occasionally hits
+  GitHub's API rate limit and shows a broken image for a while, then recovers on
+  its own. If it stays broken, swap the domain below for a load-balanced mirror:
+    https://github-profile-trophy-fork-two.vercel.app/?username=harshvadhiya&...
+  For a 100% reliable version, generate it as a static SVG via a GitHub Action.
+-->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
