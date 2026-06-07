@@ -149,14 +149,20 @@ class HarshVadhiya:
 ## 🏆 GitHub Trophies
 
 <!--
-  NOTE: This widget runs on a shared free Vercel instance that occasionally hits
-  GitHub's API rate limit and shows a broken image for a while, then recovers on
-  its own. If it stays broken, swap the domain below for a load-balanced mirror:
+  Tuned with github-profile-trophy (ryo-ma) options:
+    rank=SSS,SS,S,AAA,AA,A,B,C  -> hides unearned "?" (UNKNOWN) trophies so the row looks earned, not empty
+    column=6, margin-w/h=15     -> clean spaced 6-per-row layout (default is column=6 row=3)
+    no-frame=true, no-bg=true   -> frameless, transparent to match the rest of the profile (theme=tokyonight)
+
+  RELIABILITY: this runs on a shared free Vercel instance that can hit GitHub's API
+  rate limit and break for a while, then recover. If it stays broken, swap the domain
+  for a volunteer load-balanced mirror, e.g.:
     https://github-profile-trophy-fork-two.vercel.app/?username=harshvadhiya&...
+    https://github-profile-trophy-winning.vercel.app/?username=harshvadhiya&...
   For a 100% reliable version, generate it as a static SVG via a GitHub Action.
 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshvadhiya&theme=tokyonight&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=6&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
 
