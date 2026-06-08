@@ -27,7 +27,7 @@ jobs:
           SHOW_LANGUAGE: "True"            # languages by coding time
           SHOW_EDITORS: "True"             # editors used
           SHOW_OS: "True"                  # operating systems
-          SHOW_PROJECTS: "True"            # time per project
+          SHOW_PROJECTS: "False"           # time per project (hidden)
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "True"

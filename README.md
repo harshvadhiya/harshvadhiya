@@ -6,7 +6,7 @@
 <!-- ====================== TYPING SUBTITLE ====================== -->
 <p align="center">
   <a href="https://harshh.in">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=900&color=00BFA6&center=true&vCenter=true&width=620&lines=Frappe+%2F+ERPNext+Developer;Building+enterprise+solutions+for+SMEs;Python+%E2%80%A2+Workflow+Automation+%E2%80%A2+AI+Integrations;Turning+complex+business+processes+into+clean+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=900&color=00BFA6&center=true&vCenter=true&width=750&lines=Frappe+%2F+ERPNext+Developer;Building+enterprise+solutions+for+SMEs;Python+%E2%80%A2+Workflow+Automation+%E2%80%A2+AI+Integrations;Turning+complex+business+processes+into+clean+systems" alt="Typing SVG" />
   </a>
 </p>
 
