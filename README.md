@@ -1,11 +1,11 @@
 <!-- ====================== HEADER BANNER ====================== -->
-<a href="https://harshh.in">
+<a href="https://vadhiya.in/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:2a5298,100:00BFA6&height=210&section=header&text=Harsh%20Vadhiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frappe%20%2F%20ERPNext%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Enterprise%20Solutions&descAlignY=58&descSize=20" alt="header"/>
 </a>
 
 <!-- ====================== TYPING SUBTITLE ====================== -->
 <p align="center">
-  <a href="https://harshh.in">
+  <a href="https://vadhiya.in/">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=900&color=00BFA6&center=true&vCenter=true&width=750&lines=Frappe+%2F+ERPNext+Developer;Building+enterprise+solutions+for+SMEs;Python+%E2%80%A2+Workflow+Automation+%E2%80%A2+AI+Integrations;Turning+complex+business+processes+into+clean+systems" alt="Typing SVG" />
   </a>
 </p>
@@ -16,8 +16,8 @@
   <a href="https://github.com/harshvadhiya?tab=followers">
     <img src="https://img.shields.io/github/followers/harshvadhiya?label=Followers&style=for-the-badge&color=2a5298&logo=github&logoColor=white" alt="followers" />
   </a>
-  <a href="https://harshh.in">
-    <img src="https://img.shields.io/badge/Portfolio-harshh.in-1a2980?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
+  <a href="https://vadhiya.in/">
+    <img src="https://img.shields.io/badge/Portfolio-vadhiya.in-1a2980?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ class HarshVadhiya:
 - ⚡ &nbsp;Replaced a paid HRMS with a **custom Frappe HR** build — saving **lakhs annually**
 - 🌱 &nbsp;Currently exploring **AI integrations** and **Marketing**
 - 💬 &nbsp;Ask me about **Python, Frappe Framework, and e-commerce integrations**
-- 📫 &nbsp;Reach me at **dev.harshvadhiya@gmail.com** &nbsp;|&nbsp; 🌐 **[harshh.in](https://harshh.in)**
+- 📫 &nbsp;Reach me at **dev.harshvadhiya@gmail.com** &nbsp;|&nbsp; 🌐 **[vadhiya.in](https://vadhiya.in/)**
 
 ---
 
