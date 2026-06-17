@@ -18,6 +18,7 @@ jobs:
           # --- Required secrets (add in repo Settings > Secrets and variables > Actions) ---
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}   # from https://wakatime.com/settings/account
           GH_TOKEN: ${{ secrets.GH_TOKEN }}                   # a Personal Access Token with 'repo' scope
+          IGNORED_REPOS: "VehicleTracking"
 
           # --- What to display (toggle any to "False" to hide) ---
           SHOW_LINES_OF_CODE: "True"
