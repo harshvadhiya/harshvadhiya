@@ -170,7 +170,7 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -178,7 +178,7 @@ class HarshVadhiya:
 
 > 📦 404.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,417 Contributions in the Year 2026
+> 🏆 1,435 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -213,18 +213,19 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.89 % 
-Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Vue                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-TypeScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Python                   7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.22 % 
+Markdown                 3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Vue                      2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+TypeScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🔥 Editors: 
-Antigravity IDE          16 hrs 47 mins      ████████████████████████░   96.27 % 
-Claude Code              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Antigravity IDE          20 hrs 5 mins       ████████████████████████░   96.61 % 
+Claude Code              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      17 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -244,7 +245,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 03:50:37 UTC
+ Last Updated on 15/07/2026 03:51:23 UTC
 <!--END_SECTION:waka-->
 
 ---
