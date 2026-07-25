@@ -211,17 +211,18 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
-Markdown                 2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Vue                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
+Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Vue                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Antigravity IDE          17 hrs 48 mins      █████████████████████████   100.00 % 
+Antigravity IDE          17 hrs 8 mins       ███████████████████████░░   93.92 % 
+Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 💻 Operating System: 
-Mac                      17 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -241,7 +242,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 04:00:57 UTC
+ Last Updated on 25/07/2026 03:57:02 UTC
 <!--END_SECTION:waka-->
 
 ---
