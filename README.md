@@ -170,7 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -178,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 404.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,518 Contributions in the Year 2026
+> 🏆 1,526 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -213,18 +215,43 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 1 min        ██████████░░░░░░░░░░░░░░░   41.04 % 
-Other                    3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Markdown                 3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Vue                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Python                   9 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
+Other                    3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Vue                      3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Markdown                 3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-Antigravity IDE          21 hrs 8 mins       ██████████████████████░░░   86.55 % 
-Claude Code              3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Antigravity IDE          20 hrs 14 mins      ████████████████████░░░░░   78.91 % 
+Claude Code              5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 
 💻 Operating System: 
-Mac                      24 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 52 mins (93.12%)
+
+✍️ 15,745 lines written by AI, 340 lines written by hand (97.89% AI-written)
+
+🔤 198,782,109 Input Tokens, 852,737 Output Tokens
+
+💵 $1013.88 Estimated AI Cost This Week
+
+🧠 43 AI Sessions, 404 AI Prompts
+
+Opus                     11,746 lines        █████████████████░░░░░░░░   67.72 % 
+Gemini                   5,598 lines         ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.89% of written lines came from AI
+📝 Concise Prompter — average 412 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -244,7 +271,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 04:30:19 UTC
+ Last Updated on 28/07/2026 03:54:19 UTC
 <!--END_SECTION:waka-->
 
 ---
