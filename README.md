@@ -215,42 +215,42 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
-JavaScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Vue                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Other                    1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Python                   5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
+JavaScript               2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Vue                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Other                    1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 58 mins      ████████████████░░░░░░░░░   64.25 % 
-Claude Code              6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.75 % 
+Antigravity IDE          10 hrs 28 mins      █████████████████░░░░░░░░   68.62 % 
+Claude Code              4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
 
 💻 Operating System: 
-Mac                      17 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 53 mins (93.08%)
+⏱ AI Coding Time: 14 hrs 14 mins (93.22%)
 
-✍️ 15,195 lines written by AI, 68 lines written by hand (99.55% AI-written)
+✍️ 9,813 lines written by AI, 66 lines written by hand (99.33% AI-written)
 
-🔤 232,211,212 Input Tokens, 914,029 Output Tokens
+🔤 160,566,609 Input Tokens, 646,897 Output Tokens
 
-💵 $1182.92 Estimated AI Cost This Week
+💵 $818.39 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 300 AI Prompts
+🧠 32 AI Sessions, 287 AI Prompts
 
-Opus                     13,231 lines        ████████████████████░░░░░   79.91 % 
-Gemini                   3,327 lines         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Opus                     7,808 lines         ██████████████████░░░░░░░   70.18 % 
+Gemini                   3,317 lines         ███████░░░░░░░░░░░░░░░░░░   29.82 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📝 Concise Prompter — average 175 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.33% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 1.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -270,7 +270,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 04:08:06 UTC
+ Last Updated on 02/08/2026 04:12:35 UTC
 <!--END_SECTION:waka-->
 
 ---
