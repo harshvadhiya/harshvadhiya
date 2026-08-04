@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 404.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,568 Contributions in the Year 2026
+> 🏆 1,576 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,42 +215,42 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.50 % 
-JavaScript               2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Vue                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Python                   7 hrs               ████████████░░░░░░░░░░░░░   46.18 % 
+JavaScript               2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Vue                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 41 mins       █████████████████░░░░░░░░   66.99 % 
-Claude Code              4 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Antigravity IDE          12 hrs 31 mins      █████████████████████░░░░   82.53 % 
+Claude Code              2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 
 💻 Operating System: 
-Mac                      14 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 21 mins (92.31%)
+⏱ AI Coding Time: 12 hrs 57 mins (85.35%)
 
-✍️ 8,381 lines written by AI, 39 lines written by hand (99.54% AI-written)
+✍️ 5,436 lines written by AI, 171 lines written by hand (96.95% AI-written)
 
-🔤 178,168,040 Input Tokens, 615,294 Output Tokens
+🔤 89,838,567 Input Tokens, 334,768 Output Tokens
 
-💵 $905.25 Estimated AI Cost This Week
+💵 $457.13 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 252 AI Prompts
+🧠 33 AI Sessions, 236 AI Prompts
 
-Opus                     6,736 lines         ██████████████████░░░░░░░   73.15 % 
-Gemini                   2,472 lines         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Opus                     3,562 lines         ██████████████░░░░░░░░░░░   57.96 % 
+Gemini                   2,584 lines         ███████████░░░░░░░░░░░░░░   42.04 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
+🤖 AI-Driven — 96.95% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🚀 High AI Trust — 5.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -270,7 +270,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 04:14:48 UTC
+ Last Updated on 04/08/2026 03:57:05 UTC
 <!--END_SECTION:waka-->
 
 ---
