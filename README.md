@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 404.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,576 Contributions in the Year 2026
+> 🏆 1,597 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,50 +215,50 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs               ████████████░░░░░░░░░░░░░   46.18 % 
-JavaScript               2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Vue                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Python                   8 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.14 % 
+JavaScript               3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Other                    2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 31 mins      █████████████████████░░░░   82.53 % 
-Claude Code              2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Antigravity IDE          16 hrs 52 mins      █████████████████████░░░░   84.18 % 
+Claude Code              3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 
 💻 Operating System: 
-Mac                      15 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 57 mins (85.35%)
+⏱ AI Coding Time: 17 hrs 58 mins (89.62%)
 
-✍️ 5,436 lines written by AI, 171 lines written by hand (96.95% AI-written)
+✍️ 6,522 lines written by AI, 227 lines written by hand (96.64% AI-written)
 
-🔤 89,838,567 Input Tokens, 334,768 Output Tokens
+🔤 94,721,656 Input Tokens, 383,242 Output Tokens
 
-💵 $457.13 Estimated AI Cost This Week
+💵 $482.12 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 236 AI Prompts
+🧠 37 AI Sessions, 328 AI Prompts
 
-Opus                     3,562 lines         ██████████████░░░░░░░░░░░   57.96 % 
-Gemini                   2,584 lines         ███████████░░░░░░░░░░░░░░   42.04 % 
+Gemini                   3,853 lines         █████████████░░░░░░░░░░░░   51.26 % 
+Opus                     3,663 lines         ████████████░░░░░░░░░░░░░   48.74 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.95% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.58% of changed lines were hand-edited
+🤖 AI-Driven — 96.64% of written lines came from AI
+📝 Concise Prompter — average 157 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 5.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   41 repos            ████████████░░░░░░░░░░░░░   46.07 % 
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   44.94 % 
 JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 CSS                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
@@ -270,7 +270,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 03:57:05 UTC
+ Last Updated on 05/08/2026 03:52:11 UTC
 <!--END_SECTION:waka-->
 
 ---
