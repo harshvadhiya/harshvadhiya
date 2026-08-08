@@ -170,28 +170,97 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2010%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 404.6 kB Used in GitHub's Storage 
+> 📦 405.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,609 Contributions in the Year 2026
+> 🏆 1,619 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 52 Private Repositories 
+> 🔑 53 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                27 commits          ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌆 Daytime                46 commits          ██████████░░░░░░░░░░░░░░░   41.82 % 
+🌃 Evening                37 commits          ████████░░░░░░░░░░░░░░░░░   33.64 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Tuesday                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.45 % 
+JavaScript               3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Vue                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+
+🔥 Editors: 
+Antigravity IDE          18 hrs 39 mins      █████████████████████░░░░   84.70 % 
+Claude Code              3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+
+💻 Operating System: 
+Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 17 hrs 53 mins (81.24%)
+
+✍️ 5,577 lines written by AI, 388 lines written by hand (93.5% AI-written)
+
+🔤 134,993,466 Input Tokens, 432,914 Output Tokens
+
+💵 $683.32 Estimated AI Cost This Week
+
+🧠 33 AI Sessions, 342 AI Prompts
+
+Gemini                   3,454 lines         █████████████░░░░░░░░░░░░   52.90 % 
+Opus                     3,075 lines         ████████████░░░░░░░░░░░░░   47.10 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.5% of written lines came from AI
+📝 Concise Prompter — average 207 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 9.7% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   40 repos            ███████████░░░░░░░░░░░░░░   44.94 % 
-JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-CSS                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Python                   40 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+CSS                      11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -201,7 +270,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 03:37:30 UTC
+ Last Updated on 08/08/2026 02:35:04 UTC
 <!--END_SECTION:waka-->
 
 ---
