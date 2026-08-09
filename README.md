@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 405.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,619 Contributions in the Year 2026
+> 🏆 1,623 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,42 +215,42 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.45 % 
-JavaScript               3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Vue                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Python                   9 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.90 % 
+JavaScript               3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Other                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Vue                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 39 mins      █████████████████████░░░░   84.70 % 
-Claude Code              3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Antigravity IDE          19 hrs 11 mins      █████████████████████░░░░   83.28 % 
+Claude Code              3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 
 💻 Operating System: 
-Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      23 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 53 mins (81.24%)
+⏱ AI Coding Time: 18 hrs 52 mins (81.94%)
 
-✍️ 5,577 lines written by AI, 388 lines written by hand (93.5% AI-written)
+✍️ 5,951 lines written by AI, 412 lines written by hand (93.53% AI-written)
 
-🔤 134,993,466 Input Tokens, 432,914 Output Tokens
+🔤 135,532,228 Input Tokens, 489,355 Output Tokens
 
-💵 $683.32 Estimated AI Cost This Week
+💵 $698.43 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 342 AI Prompts
+🧠 38 AI Sessions, 367 AI Prompts
 
-Gemini                   3,454 lines         █████████████░░░░░░░░░░░░   52.90 % 
-Opus                     3,075 lines         ████████████░░░░░░░░░░░░░   47.10 % 
+Gemini                   3,515 lines         █████████████░░░░░░░░░░░░   50.82 % 
+Opus                     3,401 lines         ████████████░░░░░░░░░░░░░   49.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.5% of written lines came from AI
-📝 Concise Prompter — average 207 characters per prompt
+🤖 AI-Driven — 93.53% of written lines came from AI
+📝 Concise Prompter — average 199 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 9.7% of changed lines were hand-edited
+🚀 High AI Trust — 9.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -270,7 +270,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 02:35:04 UTC
+ Last Updated on 09/08/2026 02:41:57 UTC
 <!--END_SECTION:waka-->
 
 ---
