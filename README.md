@@ -215,46 +215,46 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
-JavaScript               3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Vue                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Python                   6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.16 % 
+JavaScript               3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Vue                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 4 mins       ████████████████░░░░░░░░░   63.14 % 
-Claude Code              5 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.55 % 
-Visual                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Antigravity IDE          9 hrs 38 mins       ████████████████░░░░░░░░░   62.92 % 
+Claude Code              5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
+Visual                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Mac                      15 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 41 mins (85.76%)
+⏱ AI Coding Time: 13 hrs 1 min (84.88%)
 
-✍️ 7,515 lines written by AI, 715 lines written by hand (91.31% AI-written)
+✍️ 7,490 lines written by AI, 874 lines written by hand (89.55% AI-written)
 
-🔤 2,604,456 Input Tokens, 743,113 Output Tokens
+🔤 2,139,543 Input Tokens, 725,870 Output Tokens
 
-💵 $94.46 Estimated AI Cost This Week
+💵 $81.44 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 252 AI Prompts
+🧠 36 AI Sessions, 229 AI Prompts
 
-Opus                     5,943 lines         █████████████████░░░░░░░░   69.02 % 
-Gemini                   2,668 lines         ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Opus                     5,966 lines         █████████████████░░░░░░░░   69.59 % 
+Gemini                   2,607 lines         ████████░░░░░░░░░░░░░░░░░   30.41 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.31% of written lines came from AI
-📝 Concise Prompter — average 304 characters per prompt
+🤖 AI-Driven — 89.55% of written lines came from AI
+📝 Concise Prompter — average 344 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 9.97% of changed lines were hand-edited
+🚀 High AI Trust — 11.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -274,7 +274,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 02:04:15 UTC
+ Last Updated on 16/08/2026 02:13:59 UTC
 <!--END_SECTION:waka-->
 
 ---
