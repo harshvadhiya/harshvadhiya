@@ -215,43 +215,43 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Kotlin                   4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Other                    3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Python                   3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
+Other                    2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+JavaScript               1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+CSV                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 12 mins      ███████████████████░░░░░░   75.28 % 
-Claude Code              3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Antigravity IDE          8 hrs 51 mins       ██████████████████████░░░   88.64 % 
+Claude Code              42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 💻 Operating System: 
-Mac                      17 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 32 mins (88.62%)
+⏱ AI Coding Time: 8 hrs 1 min (80.4%)
 
-✍️ 6,426 lines written by AI, 43 lines written by hand (99.34% AI-written)
+✍️ 1,148 lines written by AI, 39 lines written by hand (96.71% AI-written)
 
-🔤 2,009,179 Input Tokens, 685,218 Output Tokens
+🔤 354,503 Input Tokens, 119,203 Output Tokens
 
-💵 $85.83 Estimated AI Cost This Week
+💵 $15.27 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 341 AI Prompts
+🧠 21 AI Sessions, 178 AI Prompts
 
-Opus                     5,367 lines         ███████████████████░░░░░░   77.22 % 
-Gemini                   1,583 lines         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Gemini                   915 lines           █████████████████░░░░░░░░   66.16 % 
+Opus                     468 lines           ████████░░░░░░░░░░░░░░░░░   33.84 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.34% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.98% of changed lines were hand-edited
+🤖 AI-Driven — 96.71% of written lines came from AI
+📝 Concise Prompter — average 205 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 15.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -271,7 +271,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 02:17:02 UTC
+ Last Updated on 24/08/2026 02:14:19 UTC
 <!--END_SECTION:waka-->
 
 ---
