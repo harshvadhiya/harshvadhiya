@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-201%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 406.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,714 Contributions in the Year 2026
+> 🏆 1,723 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,43 +215,43 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.96 % 
-Other                    2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-JavaScript               2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
+JavaScript               3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Other                    3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 43 mins      ███████████████████████░░   90.43 % 
-Claude Code              42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Antigravity IDE          12 hrs 47 mins      ███████████████████████░░   91.85 % 
+Claude Code              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Mac                      11 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 35 mins (80.9%)
+⏱ AI Coding Time: 11 hrs 45 mins (84.48%)
 
-✍️ 1,655 lines written by AI, 58 lines written by hand (96.61% AI-written)
+✍️ 1,857 lines written by AI, 132 lines written by hand (93.36% AI-written)
 
 🔤 354,503 Input Tokens, 119,203 Output Tokens
 
 💵 $15.27 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 198 AI Prompts
+🧠 25 AI Sessions, 238 AI Prompts
 
-Gemini                   1,509 lines         ███████████████████░░░░░░   76.33 % 
-Opus                     468 lines           ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Gemini                   1,900 lines         ████████████████████░░░░░   80.24 % 
+Opus                     468 lines           █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.61% of written lines came from AI
-📝 Concise Prompter — average 265 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 10.95% of changed lines were hand-edited
+🤖 AI-Driven — 93.36% of written lines came from AI
+📝 Concise Prompter — average 206 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -271,7 +271,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 02:11:48 UTC
+ Last Updated on 26/08/2026 02:16:43 UTC
 <!--END_SECTION:waka-->
 
 ---
