@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-208%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-213%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -215,44 +215,42 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
-JavaScript               4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-Other                    4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Python                   5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Other                    3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 7 mins       ████████████████████████░   94.11 % 
-Claude Code              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Antigravity IDE          17 hrs 44 mins      ████████████████████████░   97.74 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      19 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 28 mins (85.55%)
+⏱ AI Coding Time: 15 hrs 52 mins (87.44%)
 
-✍️ 3,331 lines written by AI, 141 lines written by hand (95.94% AI-written)
+✍️ 3,186 lines written by AI, 114 lines written by hand (96.55% AI-written)
 
-🔤 384,996 Input Tokens, 120,758 Output Tokens
+🔤 30,493 Input Tokens, 1,555 Output Tokens
 
-💵 $15.87 Estimated AI Cost This Week
+💵 $0.61 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 304 AI Prompts
+🧠 28 AI Sessions, 316 AI Prompts
 
-Gemini                   3,584 lines         ██████████████████████░░░   88.45 % 
-Opus                     468 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   3,983 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.94% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 5.79% of changed lines were hand-edited
+🤖 AI-Driven — 96.55% of written lines came from AI
+📝 Concise Prompter — average 270 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 8.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -272,7 +270,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 10:18:38 UTC
+ Last Updated on 28/08/2026 12:12:02 UTC
 <!--END_SECTION:waka-->
 
 ---
