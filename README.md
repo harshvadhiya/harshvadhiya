@@ -215,24 +215,24 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
-JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Other                    3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Other                    3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 🔥 Editors: 
-Antigravity IDE          17 hrs 44 mins      █████████████████████████   99.76 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Antigravity IDE          18 hrs 24 mins      █████████████████████████   99.77 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      17 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 52 mins (89.25%)
+⏱ AI Coding Time: 16 hrs 3 mins (87.06%)
 
 ✍️ 3,186 lines written by AI, 114 lines written by hand (96.55% AI-written)
 
@@ -240,14 +240,14 @@ Mac                      17 hrs 47 mins      ███████████�
 
 💵 $0.61 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 316 AI Prompts
+🧠 29 AI Sessions, 321 AI Prompts
 
 Gemini                   3,983 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.55% of written lines came from AI
-📝 Concise Prompter — average 270 characters per prompt
+📝 Concise Prompter — average 267 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 8.12% of changed lines were hand-edited
 ```
@@ -269,7 +269,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 07:24:34 UTC
+ Last Updated on 30/08/2026 05:48:44 UTC
 <!--END_SECTION:waka-->
 
 ---
