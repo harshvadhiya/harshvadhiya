@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 406.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,777 Contributions in the Year 2026
+> 🏆 1,784 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,41 +215,41 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Other                    3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-TypeScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Python                   3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+Other                    3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+JavaScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 3 mins       ████████████████████████░   97.21 % 
-Claude Code              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Antigravity IDE          11 hrs 50 mins      █████████████████████████   99.76 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Mac                      12 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 36 mins (93.58%)
+⏱ AI Coding Time: 10 hrs 49 mins (91.13%)
 
-✍️ 3,338 lines written by AI, 18 lines written by hand (99.46% AI-written)
+✍️ 4,197 lines written by AI, 13 lines written by hand (99.69% AI-written)
 
-🔤 203,925 Input Tokens, 52,261 Output Tokens
+🔤 111,269 Input Tokens, 3,557 Output Tokens
 
-💵 $4.87 Estimated AI Cost This Week
+💵 $0.94 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 229 AI Prompts
+🧠 25 AI Sessions, 209 AI Prompts
 
-Gemini                   4,366 lines         █████████████████████████   100.00 % 
+Gemini                   5,101 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.33% of changed lines were hand-edited
+🤖 AI-Driven — 99.69% of written lines came from AI
+📝 Concise Prompter — average 291 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 1.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -269,7 +269,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 05:06:21 UTC
+ Last Updated on 07/09/2026 05:13:55 UTC
 <!--END_SECTION:waka-->
 
 ---
