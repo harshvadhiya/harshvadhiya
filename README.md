@@ -170,21 +170,21 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 406.5 kB Used in GitHub's Storage 
+> 📦 406.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,834 Contributions in the Year 2026
+> 🏆 1,850 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 55 Private Repositories 
  > 
@@ -215,41 +215,41 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Other                    4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-JSON                     3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-JavaScript               3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Other                    4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Python                   4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+JavaScript               3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+JSON                     3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Antigravity IDE          15 hrs 19 mins      █████████████████████░░░░   85.49 % 
-Claude Code              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Antigravity IDE          14 hrs 22 mins      ███████████████████░░░░░░   77.60 % 
+Claude Code              4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 
 💻 Operating System: 
-Mac                      17 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 42 mins (93.2%)
+⏱ AI Coding Time: 17 hrs (91.76%)
 
-✍️ 1,697 lines written by AI, 128 lines written by hand (92.99% AI-written)
+✍️ 1,740 lines written by AI, 140 lines written by hand (92.55% AI-written)
 
-🔤 665,017 Input Tokens, 183,805 Output Tokens
+🔤 1,166,137 Input Tokens, 370,061 Output Tokens
 
-💵 $24.98 Estimated AI Cost This Week
+💵 $50.41 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 257 AI Prompts
+🧠 36 AI Sessions, 252 AI Prompts
 
-Gemini                   2,848 lines         █████████████████████████   100.00 % 
+Gemini                   2,825 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.99% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 7.68% of changed lines were hand-edited
+🤖 AI-Driven — 92.55% of written lines came from AI
+📝 Concise Prompter — average 229 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 8.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -269,7 +269,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 05:28:08 UTC
+ Last Updated on 15/09/2026 05:19:21 UTC
 <!--END_SECTION:waka-->
 
 ---
