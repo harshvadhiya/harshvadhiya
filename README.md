@@ -215,24 +215,24 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Python                   4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-JavaScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-JSON                     2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Other                    4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Python                   4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+JavaScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JSON                     2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 3 mins       █████████████████░░░░░░░░   66.20 % 
-Claude Code              5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.80 % 
+Antigravity IDE          10 hrs              █████████████████░░░░░░░░   66.09 % 
+Claude Code              5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
 
 💻 Operating System: 
-Mac                      15 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 56 mins (91.67%)
+⏱ AI Coding Time: 13 hrs 56 mins (91.97%)
 
 ✍️ 1,966 lines written by AI, 243 lines written by hand (89.0% AI-written)
 
@@ -269,7 +269,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 05:03:01 UTC
+ Last Updated on 20/09/2026 05:25:18 UTC
 <!--END_SECTION:waka-->
 
 ---
