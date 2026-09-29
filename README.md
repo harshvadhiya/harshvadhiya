@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-277%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 406.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,955 Contributions in the Year 2026
+> 🏆 1,962 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,45 +215,45 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.54 % 
-Other                    7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
-JavaScript               3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Vue                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Python                   8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.74 % 
+Other                    6 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+JavaScript               3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Vue                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 49 mins      ██████████████████░░░░░░░   73.84 % 
-Antigravity IDE          6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              17 hrs 9 mins       ███████████████████░░░░░░   75.49 % 
+Antigravity IDE          5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      25 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 51 mins (89.67%)
+⏱ AI Coding Time: 20 hrs 28 mins (90.09%)
 
-✍️ 8,020 lines written by AI, 196 lines written by hand (97.61% AI-written)
+✍️ 7,699 lines written by AI, 183 lines written by hand (97.68% AI-written)
 
-🔤 8,386,059 Input Tokens, 1,877,499 Output Tokens
+🔤 7,524,111 Input Tokens, 1,790,665 Output Tokens
 
-💵 $203.40 Estimated AI Cost This Week
+💵 $202.87 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 531 AI Prompts
+🧠 50 AI Sessions, 408 AI Prompts
 
-Sonnet                   7,139 lines         ███████████████████░░░░░░   76.95 % 
-Opus                     1,567 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Gemini                   572 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Sonnet                   6,608 lines         ███████████████████░░░░░░   74.83 % 
+Opus                     1,651 lines         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Gemini                   572 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.61% of written lines came from AI
-📝 Concise Prompter — average 169 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 3.22% of changed lines were hand-edited
+🤖 AI-Driven — 97.68% of written lines came from AI
+📝 Concise Prompter — average 161 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 40.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -273,7 +273,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 05:53:00 UTC
+ Last Updated on 29/09/2026 06:11:38 UTC
 <!--END_SECTION:waka-->
 
 ---
