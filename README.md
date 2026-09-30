@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 406.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,962 Contributions in the Year 2026
+> 🏆 1,968 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,45 +215,43 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.74 % 
-Other                    6 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-JavaScript               3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Vue                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Python                   8 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.25 % 
+Other                    4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+JavaScript               4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 9 mins       ███████████████████░░░░░░   75.49 % 
-Antigravity IDE          5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              14 hrs 21 mins      ██████████████████░░░░░░░   73.57 % 
+Antigravity IDE          5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
 
 💻 Operating System: 
-Mac                      22 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 28 mins (90.09%)
+⏱ AI Coding Time: 16 hrs 25 mins (84.14%)
 
-✍️ 7,699 lines written by AI, 183 lines written by hand (97.68% AI-written)
+✍️ 7,694 lines written by AI, 188 lines written by hand (97.61% AI-written)
 
-🔤 7,524,111 Input Tokens, 1,790,665 Output Tokens
+🔤 5,806,811 Input Tokens, 1,564,090 Output Tokens
 
-💵 $202.87 Estimated AI Cost This Week
+💵 $172.39 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 408 AI Prompts
+🧠 49 AI Sessions, 290 AI Prompts
 
-Sonnet                   6,608 lines         ███████████████████░░░░░░   74.83 % 
-Opus                     1,651 lines         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Gemini                   572 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Opus                     4,815 lines         ███████████████░░░░░░░░░░   59.47 % 
+Sonnet                   3,135 lines         ██████████░░░░░░░░░░░░░░░   38.72 % 
+Gemini                   147 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.68% of written lines came from AI
-📝 Concise Prompter — average 161 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 40.15% of changed lines were hand-edited
+🤖 AI-Driven — 97.61% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 42.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -273,7 +271,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 06:11:38 UTC
+ Last Updated on 30/09/2026 06:00:16 UTC
 <!--END_SECTION:waka-->
 
 ---
