@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 406.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,968 Contributions in the Year 2026
+> 🏆 1,974 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,43 +215,42 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.25 % 
-Other                    4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-JavaScript               4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Python                   8 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
+Other                    5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+JavaScript               4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 21 mins      ██████████████████░░░░░░░   73.57 % 
-Antigravity IDE          5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+Claude Code              15 hrs 52 mins      ███████████████████░░░░░░   76.25 % 
+Antigravity IDE          4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
 
 💻 Operating System: 
-Mac                      19 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 25 mins (84.14%)
+⏱ AI Coding Time: 17 hrs 44 mins (85.17%)
 
-✍️ 7,694 lines written by AI, 188 lines written by hand (97.61% AI-written)
+✍️ 6,286 lines written by AI, 1,188 lines written by hand (84.1% AI-written)
 
-🔤 5,806,811 Input Tokens, 1,564,090 Output Tokens
+🔤 6,070,145 Input Tokens, 1,714,105 Output Tokens
 
-💵 $172.39 Estimated AI Cost This Week
+💵 $197.13 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 290 AI Prompts
+🧠 51 AI Sessions, 295 AI Prompts
 
-Opus                     4,815 lines         ███████████████░░░░░░░░░░   59.47 % 
-Sonnet                   3,135 lines         ██████████░░░░░░░░░░░░░░░   38.72 % 
-Gemini                   147 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Opus                     5,090 lines         ███████████████████░░░░░░   76.90 % 
+Sonnet                   1,529 lines         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.61% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
+🤖 AI-Driven — 84.1% of written lines came from AI
+📝 Concise Prompter — average 270 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 42.3% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -271,7 +270,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 06:00:16 UTC
+ Last Updated on 01/10/2026 06:33:30 UTC
 <!--END_SECTION:waka-->
 
 ---
