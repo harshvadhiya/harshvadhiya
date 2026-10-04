@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 415.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,983 Contributions in the Year 2026
+> 🏆 1,984 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,43 +215,43 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.14 % 
-Other                    7 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-JavaScript               4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Python                   10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
+Other                    6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 22 mins      ████████████████████░░░░░   78.48 % 
-Antigravity IDE          5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              17 hrs 42 mins      ███████████████████░░░░░░   76.82 % 
+Antigravity IDE          5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      24 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 4 mins (85.37%)
+⏱ AI Coding Time: 19 hrs 25 mins (84.24%)
 
-✍️ 8,124 lines written by AI, 1,244 lines written by hand (86.72% AI-written)
+✍️ 8,038 lines written by AI, 1,634 lines written by hand (83.11% AI-written)
 
-🔤 7,905,949 Input Tokens, 1,937,059 Output Tokens
+🔤 7,587,843 Input Tokens, 1,900,011 Output Tokens
 
-💵 $253.20 Estimated AI Cost This Week
+💵 $249.41 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 335 AI Prompts
+🧠 55 AI Sessions, 309 AI Prompts
 
-Opus                     7,896 lines         ███████████████████████░░   93.32 % 
-Sonnet                   565 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Opus                     7,678 lines         ███████████████████████░░   93.15 % 
+Sonnet                   565 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.72% of written lines came from AI
-📄 Detailed Prompter — average 1,052 characters per prompt
+🤖 AI-Driven — 83.11% of written lines came from AI
+📄 Detailed Prompter — average 1,153 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 49.11% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -271,7 +271,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 05:46:32 UTC
+ Last Updated on 04/10/2026 06:20:55 UTC
 <!--END_SECTION:waka-->
 
 ---
