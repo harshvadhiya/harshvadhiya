@@ -21,6 +21,7 @@ jobs:
           IGNORED_REPOS: "VehicleTracking"
 
           # --- What to display (toggle any to "False" to hide) ---
+          SHOW_AI_CODING: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"      # already shown via the komarev badge in the README
           SHOW_COMMIT: "True"              # commits by time of day (Morning/Daytime/Evening/Night)
