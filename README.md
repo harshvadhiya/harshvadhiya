@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-297%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.93%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 415.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,984 Contributions in the Year 2026
+> 🏆 1,996 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -191,21 +191,21 @@ class HarshVadhiya:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                46 commits          ██████████░░░░░░░░░░░░░░░   39.66 % 
-🌃 Evening                41 commits          █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌞 Morning                29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌆 Daytime                46 commits          ██████████░░░░░░░░░░░░░░░   39.32 % 
+🌃 Evening                42 commits          █████████░░░░░░░░░░░░░░░░   35.90 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Tuesday                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Sunday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Monday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Tuesday                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
 ```
 
 
@@ -215,30 +215,53 @@ Sunday                   18 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-Other                    6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   9 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+Other                    5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+JavaScript               3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 42 mins      ███████████████████░░░░░░   76.82 % 
-Antigravity IDE          5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Claude Code              14 hrs 15 mins      █████████████████░░░░░░░░   68.83 % 
+Antigravity IDE          6 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Mac                      23 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 24 mins (79.18%)
+
+✍️ 7,787 lines written by AI, 1,607 lines written by hand (82.89% AI-written)
+
+🔤 6,774,379 Input Tokens, 1,547,275 Output Tokens
+
+💵 $204.66 Estimated AI Cost This Week
+
+🧠 52 AI Sessions, 249 AI Prompts
+
+Opus                     7,704 lines         ████████████████████████░   94.99 % 
+Sonnet                   406 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.89% of written lines came from AI
+📚 Verbose Prompter — average 1,734 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 51.89% of changed lines were hand-edited
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   46 repos            ████████████░░░░░░░░░░░░░   46.94 % 
-JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Python                   47 repos            ████████████░░░░░░░░░░░░░   47.47 % 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
@@ -248,7 +271,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 06:20:55 UTC
+ Last Updated on 05/10/2026 06:14:31 UTC
 <!--END_SECTION:waka-->
 
 ---
