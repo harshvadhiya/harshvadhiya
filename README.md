@@ -180,11 +180,11 @@ class HarshVadhiya:
 
 > 📦 415.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,057 Contributions in the Year 2026
+> 🏆 2,065 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 55 Private Repositories 
  > 
@@ -215,26 +215,26 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
-Python                   6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-Markdown                 2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Other                    11 hrs 56 mins      █████████████░░░░░░░░░░░░   52.12 % 
+Python                   5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Java Properties          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 31 mins      ██████████████████░░░░░░░   73.72 % 
-VS Code                  3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Antigravity IDE          1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Claude Code              18 hrs 15 mins      ████████████████████░░░░░   79.73 % 
+VS Code                  4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Antigravity IDE          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      22 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   49 repos            ████████████░░░░░░░░░░░░░   48.51 % 
-JavaScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Python                   48 repos            ████████████░░░░░░░░░░░░░   47.52 % 
+JavaScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
@@ -247,7 +247,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 05:08:35 UTC
+ Last Updated on 19/10/2026 05:18:10 UTC
 <!--END_SECTION:waka-->
 
 ---
