@@ -178,7 +178,7 @@ class HarshVadhiya:
 
 **🐱 My GitHub Data** 
 
-> 📦 416.0 kB Used in GitHub's Storage 
+> 📦 415.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2,085 Contributions in the Year 2026
  > 
@@ -215,19 +215,20 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    9 hrs 26 mins       ████████████░░░░░░░░░░░░░   49.73 % 
-Python                   4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-JavaScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.57 % 
+Python                   5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+JavaScript               2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 46 mins      ███████████████████░░░░░░   77.89 % 
-VS Code                  4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Claude Code              14 hrs 35 mins      ███████████████████░░░░░░   77.18 % 
+VS Code                  4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Antigravity IDE          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Copilot CLI              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      18 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -247,7 +248,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 05:04:56 UTC
+ Last Updated on 25/10/2026 05:17:51 UTC
 <!--END_SECTION:waka-->
 
 ---
