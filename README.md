@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 416.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,201 Contributions in the Year 2026
+> 🏆 2,207 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,18 +215,18 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 10 mins       █████████████░░░░░░░░░░░░   52.04 % 
-Other                    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
+Other                    4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.24 % 
+JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 27 mins       ███████████████████░░░░░░   75.08 % 
-Codex Vscode             2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+VS Code                  7 hrs 40 mins       ██████████████████░░░░░░░   71.08 % 
+Codex Vscode             3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +246,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2026 07:44:44 UTC
+ Last Updated on 11/11/2026 07:03:59 UTC
 <!--END_SECTION:waka-->
 
 ---
