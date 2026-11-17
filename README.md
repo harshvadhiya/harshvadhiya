@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 416.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,211 Contributions in the Year 2026
+> 🏆 2,218 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,18 +215,19 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 40 mins       ███████████████░░░░░░░░░░   58.96 % 
-Python                   1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    3 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.20 % 
+Python                   2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 11 mins       █████████████████░░░░░░░░   67.14 % 
-Codex Vscode             2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.86 % 
+VS Code                  5 hrs 34 mins       █████████████████░░░░░░░░   69.91 % 
+Codex Vscode             2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Antigravity IDE          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +247,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2026 07:15:08 UTC
+ Last Updated on 17/11/2026 08:27:31 UTC
 <!--END_SECTION:waka-->
 
 ---
