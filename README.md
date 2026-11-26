@@ -170,17 +170,17 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-396%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-400%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.93%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 416.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,244 Contributions in the Year 2026
+> 🏆 2,257 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -191,21 +191,21 @@ class HarshVadhiya:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                29 commits          ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-🌆 Daytime                47 commits          ██████████░░░░░░░░░░░░░░░   39.83 % 
-🌃 Evening                42 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌞 Morning                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+🌆 Daytime                51 commits          ██████████░░░░░░░░░░░░░░░   41.80 % 
+🌃 Evening                42 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   26 commits          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Tuesday                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Monday                   26 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Sunday                   19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 ```
 
 
@@ -215,31 +215,31 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 8 mins        █████████████░░░░░░░░░░░░   53.46 % 
-Python                   2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-JavaScript               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Other                    6 hrs 19 mins       █████████████░░░░░░░░░░░░   50.13 % 
+Python                   3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 46 mins       █████████████████░░░░░░░░   67.65 % 
-Codex Vscode             3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.62 % 
-Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  8 hrs 34 mins       █████████████████░░░░░░░░   68.01 % 
+Codex Vscode             3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   50 repos            ████████████░░░░░░░░░░░░░   48.08 % 
-JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Python                   50 repos            ████████████░░░░░░░░░░░░░   47.62 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
@@ -249,7 +249,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 09:06:54 UTC
+ Last Updated on 26/11/2026 08:54:42 UTC
 <!--END_SECTION:waka-->
 
 ---
