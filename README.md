@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-400%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-402%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.09%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -180,7 +180,7 @@ class HarshVadhiya:
 
 > 📦 416.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,257 Contributions in the Year 2026
+> 🏆 2,258 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -215,21 +215,21 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 19 mins       █████████████░░░░░░░░░░░░   50.13 % 
-Python                   3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
+Python                   3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+JavaScript               2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 34 mins       █████████████████░░░░░░░░   68.01 % 
-Codex Vscode             3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  8 hrs 17 mins       ████████████████░░░░░░░░░   62.35 % 
+Codex Vscode             4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
+Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      12 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -249,7 +249,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2026 08:54:42 UTC
+ Last Updated on 27/11/2026 09:04:10 UTC
 <!--END_SECTION:waka-->
 
 ---
