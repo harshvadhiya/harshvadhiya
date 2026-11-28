@@ -170,9 +170,9 @@ class HarshVadhiya:
   Until the first run, the area between the markers stays empty — that's expected.
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-402%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.09%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -215,16 +215,16 @@ Sunday                   19 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
+Other                    6 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.66 % 
 Python                   3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-JavaScript               2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+JavaScript               2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 17 mins       ████████████████░░░░░░░░░   62.35 % 
-Codex Vscode             4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
-Antigravity IDE          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+VS Code                  8 hrs 17 mins       ████████████████░░░░░░░░░   62.36 % 
+Codex Vscode             4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
+Antigravity IDE          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 Copilot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
@@ -249,7 +249,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/harshvadhiya/harshvadhiya/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 09:04:10 UTC
+ Last Updated on 28/11/2026 08:24:35 UTC
 <!--END_SECTION:waka-->
 
 ---
